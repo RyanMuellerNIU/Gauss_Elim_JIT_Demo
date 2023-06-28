@@ -7,17 +7,24 @@ python 3+
      Numpy 1.24+, Scipy 0.16+, Numba 0.57+,
 
 Available through Python:
+
   To install Numpy:
       pip install Numpy
+      
   To install Scipy:
       pip install Scipy
+      
   To install Numba:
       pip install numba
       
 Available through Anaconda or GitHub:
+
   To install Numba(GitHub):
+  
   Both repositories are needed:
+  
     git clone https://github.com/numba/llvmlite.git
+    
     git clone https://github.com/numba/numba.git
     
   -or-
