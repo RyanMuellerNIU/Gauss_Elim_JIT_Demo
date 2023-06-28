@@ -13,11 +13,14 @@ Available through Python:
       pip install Scipy
   To install Numba:
       pip install numba
+      
 Available through Anaconda or GitHub:
   To install Numba(GitHub):
   Both repositories are needed:
     git clone https://github.com/numba/llvmlite.git
     git clone https://github.com/numba/numba.git
+    
   -or-
+  
   To install Numba(Anaconda):
   conda install numba
